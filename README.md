@@ -8,10 +8,10 @@ En la actualidad, la noción de programación se encuentra muy asociada a la cre
 
 <img src="https://www.google.com/imgres?q=programacion&imgurl=https%3A%2F%2Fconcepto.de%2Fwp-content%2Fuploads%2F2020%2F08%2FProgramacion-informatica-scaled-e1724960033513.jpg&imgrefurl=https%3A%2F%2Fconcepto.de%2Fprogramacion%2F&docid=aPHCGwtQrgYOvM&tbnid=DVruwYbNVHEwJM&vet=12ahUKEwj8jtbm87aTAxUHSjABHYuwAR8QnPAOegQIIhAB..i&w=2560&h=1280&hcb=2&ved=2ahUKEwj8jtbm87aTAxUHSjABHYuwAR8QnPAOegQIIhAB">
 
-<P>MEJORES FORMAS PRA PROGRAMAR</P>
-<P1>freeCodeCamp: Excelente para desarrollo web con certificaciones gratuitas y proyectos prácticos.</P1>
-<P2>Codecademy: Ofrece cursos interactivos en el navegador para aprender la sintaxis de múltiples lenguajes.</P2>
-<P3>Edabit: Ideal para practicar con pequeños desafíos rápidos de código.</P3>
-<p4>Codewars: Retos lógicos ("kata") para entrenar la mente.</p4>
-<p5>Coursera / edX: Cursos teóricos-prácticos impartidos por universidades.</p5> 
+<h1>MEJORES FORMAS PRA PROGRAMAR</h1>
+<h2>freeCodeCamp: Excelente para desarrollo web con certificaciones gratuitas y proyectos prácticos.<h2/>
+<h3>Codecademy: Ofrece cursos interactivos en el navegador para aprender la sintaxis de múltiples lenguajes.<h3/>
+<h4>Edabit: Ideal para practicar con pequeños desafíos rápidos de código.<h4/>
+<h5>Codewars: Retos lógicos ("kata") para entrenar la mente.<h5/>
+<h6>Coursera / edX: Cursos teóricos-prácticos impartidos por universidades.<h6/> 
 
