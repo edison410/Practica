@@ -17,15 +17,15 @@ En la actualidad, la noción de programación se encuentra muy asociada a la cre
 
 <p>todas formas son buenas para la programacion pero estas son las mas recomendable</p>
 
-<p>Tipos de lenguajes</p>
+<h1>Tipos de lenguajes</h1>
 
-<h1>Python: Versátil, utilizado en inteligencia artificial, big data y automatización.</h1>
-<h1>JavaScript: Fundamental para el desarrollo web interactivo (frontend y backend).</h1>
+<h1>Python: Versátil, utilizado en inteligencia artificial, big data y automatización.<h1/>
+<h1>JavaScript: Fundamental para el desarrollo web interactivo (frontend y backend).<h1/>
 <h1>Java: Ampliamente usado en aplicaciones empresariales y sistemas Android.</h1>
-<h1>C++ / C#: Utilizados en programación de sistemas, motores de juegos y software de alto rendimiento.</h1>
-<h1>SQL: Estándar para la gestión y consulta de bases de datos.</h1>
+<h1>C++ / C#: Utilizados en programación de sistemas, motores de juegos y software de alto rendimiento.<h1/>
+<h1>SQL: Estándar para la gestión y consulta de bases de datos.<h1/>
 
-<img src="img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/2eebca82-19e1-46f3-bbf4-dc300a6695a8">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTALJVzIfUhBMtwVOkKFgcTPqyH0PKIqg0rfA&s">
 
 
 
